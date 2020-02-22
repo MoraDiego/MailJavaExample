@@ -2,7 +2,8 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="/home/thrash/Documents/Projects/EclipseProjects/ComplementaryLibs/mail.jar"/>
-	<classpathentry kind="lib" path="/home/thrash/Documents/Projects/EclipseProjects/ComplementaryLibs/twitter4j-core-4.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usuario/Desktop/CRISTIAN/Libraries/jsoup-1.12.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usuario/Desktop/CRISTIAN/Libraries/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usuario/Desktop/CRISTIAN/Libraries/twitter4j-core-4.0.7.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
